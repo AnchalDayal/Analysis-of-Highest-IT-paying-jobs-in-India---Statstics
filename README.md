@@ -30,3 +30,13 @@ The objective of this project is to analyze a dataset containing employee data i
 4. Determine the correlation between experience (years) and salary. Is there a positive, negative, or no correlation between these variables?
 5. Plot the distribution of salaries. Is the distribution positively or negatively skewed? What does this indicate about the salary structure in the IT industry in India?
 6. What is the median salary based on different levels of experience (e.g., 0-3 years, 4-7 years, 8+ years)?
+
+Here’s how you can add that to your README on GitHub:
+
+---
+
+## Code Access
+
+For the code related to the analysis, please check my Kaggle notebook:  
+[Kaggle Notebook - Analysis of Highest IT Paying Jobs in India](https://www.kaggle.com/code/anchal0826/notebook0a37984538)
+!
